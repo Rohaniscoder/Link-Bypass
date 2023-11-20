@@ -1,7 +1,7 @@
 cloudscraper
 bs4 
 python-dotenv
-pyrogram
+pyrogram==2.0.106
 tgcrypto
 lxml
 lk21
